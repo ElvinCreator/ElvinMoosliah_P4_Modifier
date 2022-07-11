@@ -104,6 +104,11 @@ a:hover {
     justify-content: center;
 }
 
+.col-sm-03 {
+    display: flex;
+    justify-content: space-between;
+}
+
 .text-center-contact-deux {
     color: black;
     font-size: 12px;
