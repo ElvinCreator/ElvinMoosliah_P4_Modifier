@@ -105,11 +105,15 @@ a:hover {
 }
 
 .text-center-contact-deux {
-    color: bold black;
+    color: black;
 }
 
 .text-center-footer {
-    color: green;
+    color: black;
+}
+
+.site-navigation {
+    text-decoration: none;
 }
 
 .d-bloc {
@@ -664,7 +668,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
