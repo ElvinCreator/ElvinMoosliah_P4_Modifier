@@ -104,6 +104,11 @@ a:hover {
     justify-content: center;
 }
 
+.text-center-contact-deux {
+    color: bold black;
+    font-size: 17px;
+}
+
 .d-bloc {
     color: rgba(255, 255, 255, .7);
 }
