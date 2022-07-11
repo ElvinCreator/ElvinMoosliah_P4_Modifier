@@ -106,7 +106,10 @@ a:hover {
 
 .text-center-contact-deux {
     color: bold black;
-    font-size: 17px;
+}
+
+.text-center-footer {
+    color: bold green;
 }
 
 .d-bloc {
