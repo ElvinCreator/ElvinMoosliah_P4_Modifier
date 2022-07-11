@@ -106,14 +106,12 @@ a:hover {
 
 .text-center-contact-deux {
     color: black;
+    font-size: 12px;
 }
 
 .text-center-footer {
     color: black;
-}
-
-.site-navigation {
-    text-decoration: none;
+    font-size: 12px;
 }
 
 .d-bloc {
