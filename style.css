@@ -99,6 +99,11 @@ a:hover {
     background-attachment: fixed;
 }
 
+.col-sm-12 {
+    display: flex;
+    justify-content: center;
+}
+
 .d-bloc {
     color: rgba(255, 255, 255, .7);
 }
