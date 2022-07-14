@@ -104,9 +104,13 @@ a:hover {
     justify-content: center;
 }
 
-.col-sm-03 {
-    display: flex;
-    justify-content: space-between;
+.col-sm-3 {
+    display: inline-block;
+    justify-content: space-around;
+}
+
+.center-block {
+    width: 80px;
 }
 
 .text-center-contact-deux {
