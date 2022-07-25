@@ -732,6 +732,7 @@ p {
     max-width: 400px;
     margin-left: 20px;
     width: 100%;
+    display: block;
 }
 
 h2 {
