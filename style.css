@@ -18,11 +18,6 @@ a:hover {
     cursor: pointer;
 }
 
-a:focus {
-    background: blue;
-    color: red;
-}
-
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -123,7 +118,7 @@ a:focus {
     font-size: 12px;
 }
 
-.a:focus,
+a:focus,
 .btn:focus {
     border: 2px solid black;
 }
